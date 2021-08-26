@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://avatars.githubusercontent.com/u/67213673?s…00&u=3b8c23a0ef14ad94e8eaa60925f41fbbbd47f73d&v=4" style="width: 200px; border-radius: 50%">
+	<img src="https://github.com/WoolleyChrist/myblog/blob/main/assets/eva-avatar.jpg" width="240px">
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/school-uestc-important.svg" alt="school">
   </a>
 </p>
-
 # Wangfz的个人博客
 
 ### 博客相关板块链接：
@@ -23,3 +22,4 @@
 - [开发工具](https://github.com/WoolleyChrist/myblog/projects/4)
 - [计算机基础知识](https://github.com/WoolleyChrist/myblog/projects/3)
 - [Leetcode](https://github.com/WoolleyChrist/myblog/projects/5)
+
