@@ -1,6 +1,7 @@
 <p align="center">
-	<img src="https://github.com/WoolleyChrist/myblog/blob/main/assets/eva-avatar.jpg" width="240px">
+	<img src="https://github.com/WoolleyChrist/myblog/blob/main/assets/eva-avatar.png" width="240px">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/WoolleyChrist">
