@@ -2,7 +2,6 @@
 	<img src="https://github.com/WoolleyChrist/myblog/blob/main/assets/eva-avatar.png" width="240px">
 </p>
 
-
 <p align="center">
   <a href="https://github.com/WoolleyChrist">
     <img src="https://img.shields.io/badge/github-wangfz-blueviolet.svg" alt="github">
@@ -14,6 +13,7 @@
     <img src="https://img.shields.io/badge/school-uestc-important.svg" alt="school">
   </a>
 </p>
+
 # Wangfz的个人博客
 
 ### 博客相关板块链接：
